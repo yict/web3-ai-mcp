@@ -1,0 +1,11 @@
+{
+  "Wtfswap#PoolManager": "0xF2953F17045c9b2D63B65EfEb01D3DE59c437a2D",
+  "Wtfswap#PositionManager": "0xAa1923C0D65E833dD6CdBBad9F8eE70BBEb6DbdB",
+  "Wtfswap#SwapRouter": "0xA70a03a7B5d2ef3D3C9415a4f519746E7370Ae05",
+  "DebugToken#DebugTokenA": "0x3F148221422C8ae4167217237a6d66B0bCD55F9c",
+  "DebugToken#DebugTokenB": "0xedbfd525aE00BDBB7df707D4921b2A84fF756C04",
+  "DebugToken#DebugTokenC": "0x0f23F9E3eE63FFE30Ac6834c348cCca888f426D7",
+  "Uniswap#PoolManager": "0x05256632685d18DB4812E526bcB5D0a4eb5a5cE9",
+  "Uniswap#PositionManager": "0xe98b53cc8d2E1Bb43E1196531d11B2755b0FD271",
+  "Uniswap#SwapRouter": "0x2cBAA02dEd0707a6A326CB2BA69368D25c68f318"
+}

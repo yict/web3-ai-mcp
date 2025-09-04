@@ -1,0 +1,9 @@
+[submodule "testDemo/use-foundry/lib/forge-std"]
+	path = testDemo/use-foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "testDemo/one-dollar-treasure/lib/forge-std"]
+	path = testDemo/one-dollar-treasure/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "testDemo/one-dollar-treasure/lib/openzeppelin-contracts"]
+	path = testDemo/one-dollar-treasure/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
